@@ -16,7 +16,7 @@
   ],
   "success_url": "https://telegram.dog/MH_URLUploder_bot",
   "website": "https://github.com/culprit-k",
-  "repository": "https://github.com/culprit-k/ANY-URL-UPLODER-BOT-",
+  "repository": "https://github.com/901980-",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
